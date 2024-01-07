@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 mohan is good boy 
 he reads very well
+=======
+mohan is good boy 
+>>>>>>> fe5674538933aded6d288833d41f83ea529037b9
